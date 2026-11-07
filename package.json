@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node server.mjs",
     "dev": "node server.mjs",
-    "build": "node -e \"console.log('Static build ready')\""
+    "build": "node build.mjs"
   },
   "engines": {
     "node": ">=18"
